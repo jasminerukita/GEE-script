@@ -1,7 +1,7 @@
 🌏Google Earth Engine Scripts – Environmental Variable Processing
 
 📌 Overview
-This repository contains a collection of Google Earth Engine (GEE) scripts used for processing environmental variables related to habitat suitability modeling and spatial analysis in Kalimantan, Indonesia.
+This repository contains a collection of Google Earth Engine (GEE) scripts used for processing environmental variables related to habitat suitability modeling and spatial analysis in East Kalimantan, Indonesia.
 Each script represents a specific environmental parameter that supports spatial modeling and analysis using the Maximum Entropy (MaxEnt) approach.
 
 🧩 Included Scripts
